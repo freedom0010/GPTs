@@ -295,5 +295,5 @@ Analysis and summaries of the GPT prompts.
 - [GPT Prompt Notes](https://grantjenks.github.io/gpt-prompt-notes/)
 
 ## Contributors
-
+++jk
 ![Contributors](https://contrib.rocks/image?repo=linexjlin/GPTs)
